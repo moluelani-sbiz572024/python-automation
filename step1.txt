@@ -1,2 +1,0 @@
-プロジェクト「python-automation」用のPython仮想環境(.venv)を作成して下さい。
-作成後に、.gitignoreに.venvを追加して下さい。
